@@ -86,7 +86,7 @@ If you use these datasets in your research, please cite the original authors and
 ![figure 5](https://github.com/wwpa/Advanced-TS-Analysis/assets/174091478/fa744067-c302-4b68-b143-03ed08d7963d)
 
 ## PDF Version
-Due to confidentiality, please refer to the research paper for detailed information on the algorithm and methodology. Once the paper is published, additional details will be provided.
+Due to confidentiality, please refer to the research paper for detailed information on the algorithm and methodology.
 
 
 
