@@ -73,7 +73,7 @@ Source: Various online repositories provide access to them, for example, [Shakes
 
 ## How to Cite
 If you use these datasets in your research, please cite the original authors and sources as mentioned in the dataset descriptions above.
-- [Shakespeare's Works]: (https://www.opensourceshakespeare.org/)
+- Shakespeare's Works: (https://www.opensourceshakespeare.org/)
 - [Whitman's Leaves of Grass]: The Walt Whitman Archive. Available at: [Whitman's Leaves of Grass](https://www.whitmanarchive.org/published/LG/index.html)
 
 ## Visualization
