@@ -2,7 +2,7 @@
 
 ## Introduction
 Welcome to our project repository! This project focuses on sentiment analysis and text classification using multiple well-known datasets. The datasets used in this project include IMDB Reviews, Reuters-21578, SMS Spam Collection, 20 Newsgroups, and Shakespear's Novels. This README provides an overview of each dataset, including a brief description and links to the sources.
-
+ 
 ## Project Overview
 This project focuses on performing sentiment analysis and text classification using several well-known datasets, integrating machine learning and deep learning algorithms to achieve high accuracy results. As part of the ongoing project, some of the researched content has been included in the paper. The core logic of the algorithms, implementation details, and concepts are as follows. Due to the specialized nature of the project, some specifics are not extensively covered. 
 
